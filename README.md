@@ -1,4 +1,4 @@
-# DeepLearning-MiniBytes
+# DeepLearning-Bytes
 
 Some Mini Projects I made using Deep Learning 
 
